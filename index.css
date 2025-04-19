@@ -4,12 +4,13 @@ p {
 }
 
 h1 {
-  color: rgb(212, 200, 73);
+  color: rgb(153, 64, 201);
 }
 
 .ItalicPurple {
-  font-style: italic;
+  font-style: inherit;
   color: blueviolet;
+  font-size: x-large;
 }
 
 article {
